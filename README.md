@@ -1,6 +1,6 @@
 # Adaptive-Incremental-Learning-for-Intrusion-Detection-in-IoT-Networks
 
-**Description**
+**##Description##**
 
 The widespread adoption of Internet of Things (IoT) devices has created new cybersecurity 
 challenges, demanding innovative strategies to protect interconnected systems from evolving 
